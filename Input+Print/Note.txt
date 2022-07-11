@@ -1,0 +1,9 @@
+C language ke kisi bhi code ko pehle Notebook ya VS Code men type karna he or us file ko hame .c ke extension ke sath save karna he,
+Jab code poora hojae to us folder men cmd khol kr sab se pehle executable(exe) file banani he,
+exe file banane ke liye gcc -o (.exe file ka name) (Us file ka name jo .c ke extension se banai thee jis men code likha he)
+Ye code cmd pe likhenge to exe file ban jaegi,
+Agr is code ko run karne pr koi error nhn aaya to matlb code sahi he
+Ab bari he code run karne ki
+Code run karney ke liye cmd men .exe file ka name likh kr run karenge to code chal jaega
+Agr code men koi tabdeeli ki ya kuch or code ko add kia to .exe file ko change karne ke liye ye code dubara chalaenge to .exe file change
+hojaege gcc -o (.exe file ka name) (Us file ka name jo .c ke extension se banai thee jis men code likha he)
